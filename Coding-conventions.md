@@ -1,5 +1,9 @@
 Before you start implementing anything please carefully read following rules.
 
+**Coding style.**
+
+> All source code in the repository should be formatted according to [LLVM coding standards](http://llvm.org/docs/CodingStandards.html#source-code-formatting). You don't have to read this document, there's a tool that'll do the work for you - [clang-format](http://clang.llvm.org/docs/ClangFormat.html). Please use it with default settings.
+
 **Explicit size for basic data types.**
 
 > Please use data types from [stdint.h](http://www.cplusplus.com/reference/cstdint/), namely:
