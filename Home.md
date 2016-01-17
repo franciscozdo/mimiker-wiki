@@ -5,10 +5,17 @@ Before you pick up any task please read *chapter 12* from [*Modern Operating Sys
 
 ### Guiding Principles
 
-When you design and implement an interface, please keep in mind that:
+>  _"Perfection is reached not when there is no longer anything to add, but when there is no longer anything to take away."_ - Antoine de St. Exupery
 
-1. _"Perfection is reached not when there is no longer anything to add, but when there is no longer anything to take away."_ - Antoine de St. Exupery
-2. _"Everything should be as simple as possible, but no simpler."_ - Albert Einstein
+When you design and implement an interface, please keep in mind following practices and principles:
+
+1. [Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
+2. [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better)
+3. [Single Source of Truth](https://en.wikipedia.org/wiki/Single_Source_of_Truth)
+4. [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+5. [Separation of mechanism and policy](https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy)
+6. [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+7. [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
 
 ### Useful links:
 
