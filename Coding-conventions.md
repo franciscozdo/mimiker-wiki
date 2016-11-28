@@ -2,7 +2,7 @@ Before you start implementing anything please carefully read following rules.
 
 **Coding style.**
 
-> All source code in the repository should be formatted according to [LLVM coding standards](http://llvm.org/docs/CodingStandards.html#source-code-formatting). You don't have to read this document, there's a tool that'll do the work for you - [clang-format](http://clang.llvm.org/docs/ClangFormat.html). Please use it with default settings.
+> All source code in the repository should be formatted according to [LLVM coding standards](http://llvm.org/docs/CodingStandards.html#source-code-formatting). You don't have to read this document, there's a tool that'll do the work for you - [clang-format](http://clang.llvm.org/docs/ClangFormat.html). Please use it by running `make format`.
 
 **Explicit size for basic data types.**
 
@@ -22,7 +22,7 @@ Before you start implementing anything please carefully read following rules.
     #ifndef __NAME_H__
     #define __NAME_H__
     ...
-    #endif
+    #endif /* __NAME_H__ */
 
 **Name functions according to following rules:**
 
