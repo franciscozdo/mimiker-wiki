@@ -16,7 +16,7 @@ cd user
 git clone https://github.com/rafalcieslak/headless_doom
 ```
 
-* Place your `doom.wad` inside `./user/headless_doom/`. This has to be the `doom.wad` from *The Ultimate Doom 1.10*, no other IWADs are supported. The `Makefile` for headless_doom will check the md5 sum of the wad file. Note that the file name is case-sensitive.
+* Place your `doom.wad` inside `./user/headless_doom/`. This has to be the `doom.wad` from *The Ultimate Doom 1.10*, no other IWADs are supported. The `Makefile` for headless_doom will check the md5 sum of the wad file. Note that the file name is case-sensitive. [*If you don't own Ultimate DOOM, you can get it on [Steam](http://store.steampowered.com/app/2280/) or [GOG](https://www.gog.com/game/the_ultimate_doom). It frequently goes on sale for under 3€.*]
 
 ```
 cp /path/to/your/doom/doom.wad headless_doom/.
