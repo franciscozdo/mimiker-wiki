@@ -1,4 +1,4 @@
-Wifire OS wiki
+Mimiker wiki
 ---
 
 Before you pick up any task please read *chapter "Operating system design"* from [*Modern Operating Systems*](http://www.pearsonhighered.com/educator/product/Modern-Operating-Systems/9780133591620.page) by Andrew Tanenbaum and Herbert Bos.
